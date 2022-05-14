@@ -1,0 +1,141 @@
+.top {
+  background-color: #2F8F9D;
+  position: relative;
+  padding-top: 100px
+}
+
+h1 {
+  color: #8AB6D6;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 500%;
+}
+
+h2 {
+  font-weight: normal;
+  color: #8AB6D6;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+
+h3 {
+  color: #FF9292;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+}
+
+body {
+  background-color: #FFF9B6;
+  text-align: center;
+  margin: 0;
+  margin-top: 0;
+  font-family: 'Merriweather', serif;
+}
+
+span {
+  text-decoration: underline;
+}
+
+span:hover {
+  display: none;
+}
+
+hr {
+  border-style: dotted none none; border-width: 7px; width: 10%; border-color: #2F8F9D; margin: 100px auto;
+}
+
+a {
+  margin: 20px 30px;
+  font-family: 'Montserrat', sans-serif;
+  color: #2f8e9d;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+}
+
+.middle {
+  line-height: 2;
+  margin: auto;
+}
+
+  .intro {
+    width: 30%;
+    margin:auto;
+    line-height: 2;
+  }
+
+  .contact-message {
+    width: 40%;
+    margin: auto;
+    padding-bottom: 20px
+  }
+
+  .skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+
+  }
+
+  .gaming-pic {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+  }
+
+  .running-pic {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+  }
+
+.bottom {
+  background-color: #FF9292;
+  padding: 20px 0 20px 0;
+  line-height: 2;
+}
+
+.copyright {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.75rem;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #8AB6D6;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #2f8e9d;
+  text-decoration: none;
+}
+
+.mountain {
+  position: relative;
+  top: 4px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 330px;
+  top: 50px;
+}
+
+.mypic {
+  width: 20%; margin-top: 80px;
+}
